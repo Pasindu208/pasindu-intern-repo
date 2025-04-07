@@ -5,7 +5,7 @@
 * I am working on Quality Assurance as part of the front end team 🖥️
 * The days and times I work are:
   * Monday (📍 in person)
-  * Thursday & Friday (💻 online)
+  * Thursday (💻 online)
 
 ## 👀 How I Work Best
 
@@ -22,6 +22,7 @@
 
 * I work best in a team when my responsibilities are clearly defined ✅
 * My biggest pet peeve in teamwork is unclear expectations of my tasks ⚠️
+* I will ask team mates for clarification if anything is unclear
 * If I seem quiet in a meeting, it usually means I'm thinking or I have  nothing else to add 🤔
 
 ## 🎧 Focus & Productivity
@@ -33,8 +34,9 @@
 ## 📢 Feedback & Growth
 
 * I like feedback to be clear and direct, pointing out where I must improve 🌱✨
-* I would prefer written feedback when possible 📝
+* I would prefer written feedback when possible (E-mail/Discord) 📝
 * When I make a mistake, the best way to let me know is to point it out 🎯
+I prefer to receive feedback weekly or after tasks are completed ⏱️
 * I appreciate it when teammates point out if I am going in the wrong direction early on 🙏🏾
 
 ## 🎉 Fun Facts & Quirks
