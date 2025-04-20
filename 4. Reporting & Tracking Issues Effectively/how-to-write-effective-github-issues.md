@@ -1,4 +1,4 @@
-# Guide to Writing a Project Proposal for a Business Expansion Loan in Sri Lanka
+# How to Write Effective GitHub Issues
 
 ## Reflection
 
